@@ -1,6 +1,4 @@
 name: NPM CD workflow
-#1
-#2
 #temp change
 on:
   push:
