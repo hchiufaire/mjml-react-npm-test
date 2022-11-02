@@ -1,5 +1,5 @@
 {
-  "name": "@faire/mjml-react",
+  "name": "@hchiufaire/mjml-react-npm-test",
   "version": "3.0.0-a1",
   "license": "MIT",
   "description": "React component library to generate the HTML emails on the fly",
@@ -87,7 +87,7 @@
   },
   "release": {
     "branches": [
-      "main",
+      "release",
       {
         "name": "beta",
         "prerelease": true
