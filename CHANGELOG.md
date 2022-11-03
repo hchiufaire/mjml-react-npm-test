@@ -1,3 +1,15 @@
+# [6.2.0](https://github.com/hchiufaire/mjml-react-npm-test/compare/v6.1.0...v6.2.0) (2022-11-03)
+
+### Bug Fixes
+
+- alpha 1 fix ([c5bfb52](https://github.com/hchiufaire/mjml-react-npm-test/commit/c5bfb520761551c8f178949883cefb436813d5f3))
+- alpha 1 fix ([7bff902](https://github.com/hchiufaire/mjml-react-npm-test/commit/7bff902c8467a17a815016b2bc4187c823c783b5))
+- alpha 2 fix ([bfd37a3](https://github.com/hchiufaire/mjml-react-npm-test/commit/bfd37a351cc18feb94acf993d0be7f70a6893f40))
+
+### Features
+
+- alpha 2 feat ([5d76ff4](https://github.com/hchiufaire/mjml-react-npm-test/commit/5d76ff43b3ef2229772ee113a9c9529705b96326))
+
 # [6.2.0-alpha.2](https://github.com/hchiufaire/mjml-react-npm-test/compare/v6.2.0-alpha.1...v6.2.0-alpha.2) (2022-11-03)
 
 ### Bug Fixes
