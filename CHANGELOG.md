@@ -1,3 +1,5 @@
+# [3.0.0](https://github.com/hchiufaire/mjml-react-npm-test/compare/v2.1.13...v3.0.0) (2022-11-03)
+
 ## [2.1.13](https://github.com/hchiufaire/mjml-react-npm-test/compare/v2.1.12...v2.1.13) (2022-11-03)
 
 ### Performance Improvements
