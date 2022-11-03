@@ -1,3 +1,9 @@
+## [2.1.12](https://github.com/hchiufaire/mjml-react-npm-test/compare/v2.1.11...v2.1.12) (2022-11-03)
+
+### Performance Improvements
+
+- test breaking change ([#9](https://github.com/hchiufaire/mjml-react-npm-test/issues/9)) ([531557f](https://github.com/hchiufaire/mjml-react-npm-test/commit/531557fde50b0e3308db73af2f8f6c5283785d45))
+
 ## [2.1.11](https://github.com/hchiufaire/mjml-react-npm-test/compare/v2.1.10...v2.1.11) (2022-11-02)
 
 ### Bug Fixes
