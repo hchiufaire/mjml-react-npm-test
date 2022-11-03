@@ -1,3 +1,13 @@
+# [5.0.0](https://github.com/hchiufaire/mjml-react-npm-test/compare/v4.0.0...v5.0.0) (2022-11-03)
+
+### Performance Improvements
+
+- nothing burger ([#16](https://github.com/hchiufaire/mjml-react-npm-test/issues/16)) ([eaaa2b7](https://github.com/hchiufaire/mjml-react-npm-test/commit/eaaa2b769629b72ae4409b6e3f1701855a45aaa3))
+
+### BREAKING CHANGES
+
+- lets gooooo
+
 # [4.0.0](https://github.com/hchiufaire/mjml-react-npm-test/compare/v3.1.0...v4.0.0) (2022-11-03)
 
 - perf!: this should bring to v4 (#15) ([8460ffb](https://github.com/hchiufaire/mjml-react-npm-test/commit/8460ffb937c8ca949ac61c545e1d9e1fc4575041)), closes [#15](https://github.com/hchiufaire/mjml-react-npm-test/issues/15)
