@@ -1,3 +1,9 @@
+# [6.1.0](https://github.com/hchiufaire/mjml-react-npm-test/compare/v6.0.0...v6.1.0) (2022-11-03)
+
+### Features
+
+- change plugin order so package.json updates ([#19](https://github.com/hchiufaire/mjml-react-npm-test/issues/19)) ([48af31e](https://github.com/hchiufaire/mjml-react-npm-test/commit/48af31e37fe6772bcdf3c4be12551dd912da2b18))
+
 # [6.0.0](https://github.com/hchiufaire/mjml-react-npm-test/compare/v5.0.0...v6.0.0) (2022-11-03)
 
 ### Performance Improvements
