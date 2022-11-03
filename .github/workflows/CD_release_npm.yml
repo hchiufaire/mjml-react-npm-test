@@ -1,5 +1,4 @@
 name: NPM CD workflow
-#alpha 2
 on:
   push:
     branches:
