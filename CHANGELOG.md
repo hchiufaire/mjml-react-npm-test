@@ -1,3 +1,9 @@
+## [2.1.13](https://github.com/hchiufaire/mjml-react-npm-test/compare/v2.1.12...v2.1.13) (2022-11-03)
+
+### Performance Improvements
+
+- trying breaking BREAKING CHANGE: this is the breaking change ([#10](https://github.com/hchiufaire/mjml-react-npm-test/issues/10)) ([bddb2b3](https://github.com/hchiufaire/mjml-react-npm-test/commit/bddb2b3770bd444d71e36b0786d97241314443ba))
+
 ## [2.1.12](https://github.com/hchiufaire/mjml-react-npm-test/compare/v2.1.11...v2.1.12) (2022-11-03)
 
 ### Performance Improvements
