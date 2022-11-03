@@ -1,6 +1,6 @@
 {
   "name": "@hchiufaire/mjml-react-npm-test",
-  "version": "6.2.0-alpha.1",
+  "version": "6.2.0-alpha.2",
   "license": "MIT",
   "description": "React component library to generate the HTML emails on the fly",
   "keywords": [
