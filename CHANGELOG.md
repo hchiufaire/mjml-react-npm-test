@@ -1,3 +1,15 @@
+# [6.0.0](https://github.com/hchiufaire/mjml-react-npm-test/compare/v5.0.0...v6.0.0) (2022-11-03)
+
+### Performance Improvements
+
+- remove com citizen from package json ([#18](https://github.com/hchiufaire/mjml-react-npm-test/issues/18)) ([b9cd876](https://github.com/hchiufaire/mjml-react-npm-test/commit/b9cd87640e561d94d30eec8b8f2581cabd8c5133))
+- test breaking change without conven commit ([#17](https://github.com/hchiufaire/mjml-react-npm-test/issues/17)) ([8fddde6](https://github.com/hchiufaire/mjml-react-npm-test/commit/8fddde621314443e705c9b88fb84c3be9cf91896))
+
+### BREAKING CHANGES
+
+- HELLO
+- here we go
+
 # [5.0.0](https://github.com/hchiufaire/mjml-react-npm-test/compare/v4.0.0...v5.0.0) (2022-11-03)
 
 ### Performance Improvements
