@@ -1,3 +1,11 @@
+# [4.0.0](https://github.com/hchiufaire/mjml-react-npm-test/compare/v3.1.0...v4.0.0) (2022-11-03)
+
+- perf!: this should bring to v4 (#15) ([8460ffb](https://github.com/hchiufaire/mjml-react-npm-test/commit/8460ffb937c8ca949ac61c545e1d9e1fc4575041)), closes [#15](https://github.com/hchiufaire/mjml-react-npm-test/issues/15)
+
+### BREAKING CHANGES
+
+- hmmmmmmm
+
 # [3.1.0](https://github.com/hchiufaire/mjml-react-npm-test/compare/v3.0.0...v3.1.0) (2022-11-03)
 
 ### Bug Fixes
