@@ -1,3 +1,9 @@
+## [6.2.1](https://github.com/hchiufaire/mjml-react-npm-test/compare/v6.2.0...v6.2.1) (2022-11-07)
+
+### Bug Fixes
+
+- new permissions v2 ([be4d993](https://github.com/hchiufaire/mjml-react-npm-test/commit/be4d993c5bc4aac954eb7c00dc9cadb694f8e6b8))
+
 # [6.2.0](https://github.com/hchiufaire/mjml-react-npm-test/compare/v6.1.0...v6.2.0) (2022-11-03)
 
 ### Bug Fixes
