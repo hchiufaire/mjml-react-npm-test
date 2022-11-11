@@ -1,3 +1,13 @@
+# [7.0.0](https://github.com/hchiufaire/mjml-react-npm-test/compare/v6.2.1...v7.0.0) (2022-11-11)
+
+### randomTag
+
+- something ([c70e758](https://github.com/hchiufaire/mjml-react-npm-test/commit/c70e75866c2eb86ea6782b066e66beff5aa6ff18))
+
+### BREAKING CHANGES
+
+- will this break
+
 ## [6.2.1](https://github.com/hchiufaire/mjml-react-npm-test/compare/v6.2.0...v6.2.1) (2022-11-07)
 
 ### Bug Fixes
