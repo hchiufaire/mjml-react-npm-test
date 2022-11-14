@@ -1,6 +1,5 @@
 name: NPM CD workflow
 
-# test new permissions s
 on:
   push:
     branches:
